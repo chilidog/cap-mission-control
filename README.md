@@ -28,3 +28,5 @@ cap-mission-control/
 ├── data/                # Sample missions, CAPID logs, telemetry packets
 ├── config/              # Fleet settings, unit filters, airframe profiles
 └── assets/              # Icons, maps, CAP-specific UI elements
+
+This project is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode.en).
